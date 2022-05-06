@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&display=swap');
+
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.neu-stop {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5rem auto;
+}
+
+.neu-watch {
+    height: 2rem;
+    width: 2rem;
+    background: #dde1e7;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 123, 288);
+}
+
+.neu-buttons {
+    display: flex;
+    gap: 3rem;
+    text-align: center;
+}
+
+.neu-start-button {
+    height: 3rem;
+    width: 7rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #dde1e7;
+    border-radius: 0.5rem;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 123, 288);
+}
+
+.neu-stop-button {
+    height: 3rem;
+    width: 7rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #dde1e7;
+    border-radius: 0.5rem;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 123, 288);
+}
+
+.neu-reset-button {
+    height: 3rem;
+    width: 7rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #dde1e7;
+    border-radius: 0.5rem;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 123, 288);
+}
